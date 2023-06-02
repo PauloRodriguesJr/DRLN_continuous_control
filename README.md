@@ -85,3 +85,7 @@ To set up your python environment to run the code in this repository, follow the
 
 
 Follow the instructions in `Continuous_Control.ipynb` to get started with  the training of the agent.
+
+### References
+
+Most of the code structure is based on the ddpg-bipedal solution presented in  [github.com/udacity/deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning), in which are tested modifications and improvements to better perform in the present task.
